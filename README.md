@@ -1,2 +1,2 @@
 # modeloconstrutora
-primeira página para uma construtora usando bootstrap
+primeira página de uma construtora usando BOOTSTRAP
